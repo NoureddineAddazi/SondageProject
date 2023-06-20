@@ -10,6 +10,7 @@ Le serveur génère des rapports statistiques sur les choix et les préférences
 Le système prend en charge la communication entre plusieurs clients et le serveur simultanément.
 
 **Architecture**
+
 Le système est basé sur une architecture client-serveur. Les clients se connectent au serveur en utilisant des sockets et envoient leurs réponses. Le serveur reçoit les réponses, les enregistre et effectue des opérations d'analyse pour générer les rapports statistiques.
 
 **Comment utiliser le système de sondage**
